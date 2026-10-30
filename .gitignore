@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.env
+kaggle.json
+*.csv
+*.pt
+*.pth
+*.bin
+*.safetensors
+results/
+models/
+data/
+.DS_Store
+Thumbs.db
